@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=starter_pack
+PRODUCT_BUNDLE_IDENTIFIER=com.starter.starter_pack.starter_pack$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
